@@ -2,7 +2,7 @@
   "entrypoint": "index.js",
   "compatibilityDate": "2026-11-11",
   "modules": [
-    { "name": "index.js", "type": "esm", "path": "./dist/cadetpath_360/index.js" }
+    { "name": "index.js", "type": "esm", "path": "./dist/code360/index.js" }
   ],
   "assetsDirectory": "./dist/client",
   "spa": true

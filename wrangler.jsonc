@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "cadetpath-360",
+  "name": "code360",
   "main": "src/worker/index.ts",
   "compatibility_date": "2026-11-11",
   "assets": {
